@@ -1,5 +1,12 @@
 def incredible(text):
     """
-    ВСЕ БУКВЫ БОЛЬШИЕ
+    все большие буквы
     """
     return text.upper()
+
+
+def delicious(text):
+    """
+    Большая Первая Буква
+    """
+    return text.title()
