@@ -9,4 +9,4 @@ def delicious(text):
     """
     Большая Первая Буква
     """
-    return text.title()
+    return text.copitalaze()
